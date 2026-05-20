@@ -1,0 +1,6 @@
+{
+  "name": "Táxi Controle",
+  "description": "Controle de receitas, despesas, filtros e relatórios por motorista e rota para táxis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
